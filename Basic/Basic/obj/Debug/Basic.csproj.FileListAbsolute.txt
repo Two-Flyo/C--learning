@@ -1,0 +1,8 @@
+D:\C#-learning\Basic\Basic\bin\Debug\Basic.exe.config
+D:\C#-learning\Basic\Basic\bin\Debug\Basic.exe
+D:\C#-learning\Basic\Basic\bin\Debug\Basic.pdb
+D:\C#-learning\Basic\Basic\obj\Debug\Basic.csproj.AssemblyReference.cache
+D:\C#-learning\Basic\Basic\obj\Debug\Basic.csproj.SuggestedBindingRedirects.cache
+D:\C#-learning\Basic\Basic\obj\Debug\Basic.csproj.CoreCompileInputs.cache
+D:\C#-learning\Basic\Basic\obj\Debug\Basic.exe
+D:\C#-learning\Basic\Basic\obj\Debug\Basic.pdb
