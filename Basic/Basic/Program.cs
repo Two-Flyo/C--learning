@@ -25,11 +25,21 @@ namespace Basic
             //PrintDataType();
             //UseOperator();
             //UserExpression();
-            TestForEach();
+            long ret = Fac(5);
+            Console.WriteLine("5! = {0}", ret);
             Console.ReadKey();
         }
 
-        
+        static long Fac(int n)
+        {
+            if (n == 1)
+            {
+                return 1;
+            }
+            long ret;
+            return ret = Fac(n - 1) * n;
+        }
+
         static void TestForEach()
         {
             var IntValues = new List<int>() { 1, 3, 5, 7, 9 };
