@@ -1,0 +1,11 @@
+D:\C#-learning\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.exe.config
+D:\C#-learning\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.exe
+D:\C#-learning\ButtonDemo\ButtonDemo\bin\Debug\ButtonDemo.pdb
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csproj.AssemblyReference.cache
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csproj.SuggestedBindingRedirects.cache
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.Form1.resources
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.Properties.Resources.resources
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csproj.GenerateResource.cache
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.csproj.CoreCompileInputs.cache
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.exe
+D:\C#-learning\ButtonDemo\ButtonDemo\obj\Debug\ButtonDemo.pdb
