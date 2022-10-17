@@ -1,0 +1,11 @@
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\bin\Debug\FormCtrlProperty.exe.config
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\bin\Debug\FormCtrlProperty.exe
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\bin\Debug\FormCtrlProperty.pdb
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.csproj.AssemblyReference.cache
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.csproj.SuggestedBindingRedirects.cache
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.Form1.resources
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.Properties.Resources.resources
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.csproj.GenerateResource.cache
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.csproj.CoreCompileInputs.cache
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.exe
+D:\C#-learning\FormCtrlProperty\FormCtrlProperty\obj\Debug\FormCtrlProperty.pdb
