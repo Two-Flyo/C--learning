@@ -1,0 +1,11 @@
+D:\C#-learning\AssemblyDemo\UseMyLibrary\bin\Debug\UseMyLibrary.exe.config
+D:\C#-learning\AssemblyDemo\UseMyLibrary\bin\Debug\UseMyLibrary.exe
+D:\C#-learning\AssemblyDemo\UseMyLibrary\bin\Debug\UseMyLibrary.pdb
+D:\C#-learning\AssemblyDemo\UseMyLibrary\bin\Debug\MyClassLibrary.dll
+D:\C#-learning\AssemblyDemo\UseMyLibrary\bin\Debug\MyClassLibrary.pdb
+D:\C#-learning\AssemblyDemo\UseMyLibrary\obj\Debug\UseMyLibrary.csproj.AssemblyReference.cache
+D:\C#-learning\AssemblyDemo\UseMyLibrary\obj\Debug\UseMyLibrary.csproj.SuggestedBindingRedirects.cache
+D:\C#-learning\AssemblyDemo\UseMyLibrary\obj\Debug\UseMyLibrary.csproj.CoreCompileInputs.cache
+D:\C#-learning\AssemblyDemo\UseMyLibrary\obj\Debug\UseMyLibrary.csproj.CopyComplete
+D:\C#-learning\AssemblyDemo\UseMyLibrary\obj\Debug\UseMyLibrary.exe
+D:\C#-learning\AssemblyDemo\UseMyLibrary\obj\Debug\UseMyLibrary.pdb

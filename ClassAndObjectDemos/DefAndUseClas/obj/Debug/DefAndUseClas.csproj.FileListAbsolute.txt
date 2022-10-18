@@ -1,0 +1,8 @@
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\bin\Debug\DefAndUseClas.exe.config
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\bin\Debug\DefAndUseClas.exe
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\bin\Debug\DefAndUseClas.pdb
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\obj\Debug\DefAndUseClas.csproj.AssemblyReference.cache
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\obj\Debug\DefAndUseClas.csproj.SuggestedBindingRedirects.cache
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\obj\Debug\DefAndUseClas.csproj.CoreCompileInputs.cache
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\obj\Debug\DefAndUseClas.exe
+D:\C#-learning\ClassAndObjectDemos\DefAndUseClas\obj\Debug\DefAndUseClas.pdb
